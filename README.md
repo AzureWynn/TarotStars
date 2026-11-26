@@ -25,14 +25,13 @@ tarot-stars/
 - `migrate-new-tarot-schema.ts` / `verify-new-tarot-schema.ts`
 - `full-migration-and-verification.ts`
 
-其他一次性维护脚本已移出仓库，仍保留在原来的 `old/` 目录中。
+其他一次性维护脚本未包含在本仓库中。
 
 ## 安全说明
 
 - 仓库中不包含任何 `.env` 文件，`.env.example` 只有占位符。
-- 旧项目中出现过的 Bot token 及密钥已在本机另行备份到仓库外的 `LOCAL_SECRETS_BACKUP.env`。
-- 由于旧 `.env.example` 曾包含真实 token，建议到 BotFather 轮换 token，并把 `TELEGRAM_BOT_SECRET_TOKEN`、`JWT_SECRET`、`API_SECRET` 一并换成新随机值。
-- 前端启动时使用的本地 HTTPS 证书不入库。本地开发请从 `old/tarot-stars-app/certificates/` 复制证书到 `apps/tarot-stars-app/certificates/`。
+- 部署前请到 BotFather 获取新的 Bot token，并将 `TELEGRAM_BOT_SECRET_TOKEN`、`JWT_SECRET`、`API_SECRET` 设置为独立的随机值。
+- 前端本地开发使用的 HTTPS 证书不入库，请自行准备并放到 `apps/tarot-stars-app/certificates/`。
 
 ## 本地开发
 
