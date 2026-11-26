@@ -86,6 +86,8 @@ docker compose up -d --build
 如果只需要 Telegram Bot，不需要 Mini App 和 HTTPS，可以只启动 MongoDB 和后端：
 
 ```bash
+cd TarotStars
+git pull
 docker compose up -d --build mongo server
 docker compose run --rm server node dist/scripts/import-tarot-cards.js
 docker compose logs -f server
@@ -106,7 +108,7 @@ cd apps/tarot-stars-server
 npm run build
 npm start
 npm run import:tarot-cards
-npm run migrate:full
+npm run migrate:rider-waite
 
 # 前端
 cd apps/tarot-stars-app
