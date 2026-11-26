@@ -21,9 +21,7 @@ tarot-stars/
 保留的脚本：
 
 - `import-tarot-cards.ts`：从 `tarot_78_full_zh.json` 导入 78 张牌、分类、花色和牌组
-- `migrate-rider-waite.ts` / `verify-rider-waite.ts`
-- `migrate-new-tarot-schema.ts` / `verify-new-tarot-schema.ts`
-- `full-migration-and-verification.ts`
+- `migrate-rider-waite.ts`：从公开数据源迁移 Rider-Waite 牌组
 
 其他一次性维护脚本未包含在本仓库中。
 
@@ -82,6 +80,23 @@ docker compose up -d --build
 2. `REACT_APP_API_BASE_URL` 是公网 HTTPS API 地址，例如 `https://api.example.com/api/v2/tarot`。它在**构建时**被写入前端产物，修改后必须重新构建 `web` 镜像。
 3. 用 Nginx / Caddy / 云负载均衡在 443 端口终止 TLS，再反代到容器的 `3000` 和 `3001`。容器内的 Node 服务只监听 HTTP。
 4. Bot 使用 long polling，不需要配置 webhook 回调地址。
+
+## 仅 Bot 部署（无域名 / 无 Mini App）
+
+如果只需要 Telegram Bot，不需要 Mini App 和 HTTPS，可以只启动 MongoDB 和后端：
+
+```bash
+docker compose up -d --build mongo server
+docker compose run --rm server node dist/scripts/import-tarot-cards.js
+docker compose logs -f server
+```
+
+说明：
+
+- 第一次部署必须执行导入脚本，它会清空并重建 78 张牌的数据。
+- `web` 服务不需要启动；Bot 使用 long polling，不依赖前端或域名。
+- `.env` 中的 `MINI_APP_URL` 仅用于 Bot 的小程序按钮；不使用 Mini App 时可以先填占位地址，或移除相关按钮后重新部署。
+- 如果服务器在国内导致 Bot 连不上 Telegram，需要额外配置代理；当前生产模式下 `SOCKS_PROXY` 不会自动生效。
 
 ## 常用命令
 

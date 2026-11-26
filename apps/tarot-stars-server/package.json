@@ -10,10 +10,6 @@
     "lint": "eslint src/**/*.ts",
     "format": "prettier --write src/**/*.ts",
     "migrate:rider-waite": "ts-node src/scripts/migrate-rider-waite.ts",
-    "verify:rider-waite": "ts-node src/scripts/verify-rider-waite.ts",
-    "migrate:new-schema": "ts-node src/scripts/migrate-new-tarot-schema.ts",
-    "verify:new-schema": "ts-node src/scripts/verify-new-tarot-schema.ts",
-    "migrate:full": "ts-node src/scripts/full-migration-and-verification.ts",
     "import:tarot-cards": "ts-node src/scripts/import-tarot-cards.ts"
   },
   "keywords": [
