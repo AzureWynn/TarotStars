@@ -1,0 +1,3222 @@
+[
+  {
+    "id": 0,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 0,
+    "name_zh": "愚者",
+    "name_en": "The Fool",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "天真",
+      "冒险",
+      "新旅程",
+      "自由",
+      "自发"
+    ],
+    "keywords_reversed": [
+      "鲁莽",
+      "缺乏计划",
+      "逃避现实",
+      "天真过头"
+    ],
+    "meaning_upright": "新的开始与无限可能。带着信任迈出第一步，拥抱未知。",
+    "meaning_reversed": "冒进与忽视风险导致反复走弯路。需要基本规划与边界。",
+    "love_upright": "恋爱中的新缘分或新阶段，保持开放但不失分寸。",
+    "love_reversed": "缺乏承诺或不切实际的期待，容易受伤；脚踏实地。",
+    "career_upright": "职场/事业上尝试新路线、创业、转职有灵感，但要做最小可行验证。",
+    "career_reversed": "冲动跳槽或草率创业，准备不足；先补齐技能与现金流。",
+    "finance_upright": "财务上宜小额试水；为旅程准备应急金。",
+    "finance_reversed": "投机或冲动消费，谨慎预算，避免‘一夜暴富’心态。",
+    "description": "画面中旅人背包轻便，脚边小犬示警：自由与提醒并存。",
+    "advice": "建议：保持好奇与弹性，同时设置安全网。",
+    "notes": ""
+  },
+  {
+    "id": 1,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 1,
+    "name_zh": "魔术师",
+    "name_en": "The Magician",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "意志",
+      "沟通",
+      "资源整合",
+      "显化",
+      "专注"
+    ],
+    "keywords_reversed": [
+      "散漫",
+      "操弄",
+      "技能未用",
+      "沟通失灵"
+    ],
+    "meaning_upright": "你具备把想法化为现实的全部工具（权杖/圣杯/宝剑/五角星）。",
+    "meaning_reversed": "能量外散或动机不纯，导致成果难以落地。",
+    "love_upright": "爱里善用沟通与行动表达，促成关系推进。",
+    "love_reversed": "花言巧语、权术或承诺过度；回到真诚。",
+    "career_upright": "工作上适合提案、谈判、跨团队整合，抓住窗口期。",
+    "career_reversed": "话多事少、目标不清；聚焦一件最有效的事。",
+    "finance_upright": "善用资源，提高变现效率；重视现金流管理。",
+    "finance_reversed": "信息不对称与过度包装的风险；反向核实，签约留痕。",
+    "description": "无穷大的符号示专注与能量循环：心念决定走向。",
+    "advice": "建议：把目标拆解成可执行清单，立刻启动第一步。",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 2,
+    "name_zh": "女祭司",
+    "name_en": "The High Priestess",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "直觉",
+      "潜意识",
+      "沉静",
+      "神秘",
+      "界限"
+    ],
+    "keywords_reversed": [
+      "隐瞒",
+      "迟滞",
+      "压抑情感",
+      "信息封闭"
+    ],
+    "meaning_upright": "聆听直觉与梦的讯息，观察而非急于行动。",
+    "meaning_reversed": "过度保密导致误解；该说的必须说。",
+    "love_upright": "爱情中保持自我边界，慢热但深邃的连接。",
+    "love_reversed": "冷漠或回避亲密；适度分享内心。",
+    "career_upright": "工作宜研究、数据、设计、知识管理；静水流深。",
+    "career_reversed": "信息壁垒、孤岛化；加强跨部门透明度。",
+    "finance_upright": "保守财务操作，优先安全与风控；避免冲动。",
+    "finance_reversed": "暗盘与不透明条款需警惕；凡事留底稿。",
+    "description": "帘幕后之书象征秘知：答案已在你心里。",
+    "advice": "建议：给未知留白，但为关键节点设预案。",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 3,
+    "name_zh": "女皇",
+    "name_en": "The Empress",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "丰盛",
+      "滋养",
+      "创造",
+      "美感",
+      "母性"
+    ],
+    "keywords_reversed": [
+      "过度溺爱",
+      "懒散",
+      "过度消费",
+      "依赖"
+    ],
+    "meaning_upright": "丰饶与创造力迸发，适合孕育项目与关系。",
+    "meaning_reversed": "边界不清致资源流失；学会说不。",
+    "love_upright": "爱情中温柔包容、感官享受与承诺加深。",
+    "love_reversed": "占有或黏腻让对方窒息；重拾自我。",
+    "career_upright": "事业上重视体验、品牌、美学与用户价值。",
+    "career_reversed": "流程松散、缺乏指标；建立节奏与KPI。",
+    "finance_upright": "财务迎来增长或福利，适合资产配置与增持。",
+    "finance_reversed": "冲动消费、堆砌面子；制定消费清单。",
+    "description": "麦穗与花园意象：自然的生长需要时间与照料。",
+    "advice": "建议：用系统化的滋养取代情绪化投入。",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 4,
+    "name_zh": "皇帝",
+    "name_en": "The Emperor",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "结构",
+      "权威",
+      "规则",
+      "掌控",
+      "稳定"
+    ],
+    "keywords_reversed": [
+      "僵化",
+      "独断",
+      "控制欲",
+      "冷硬"
+    ],
+    "meaning_upright": "建立秩序与边界，以长期视角巩固地基。",
+    "meaning_reversed": "过度管控抑制创新；授权与信任。",
+    "love_upright": "关系需要安全感与承诺，明确未来规划。",
+    "love_reversed": "父权式压迫或缺乏同理；学会倾听。",
+    "career_upright": "事业上制度化、流程化、治理与合规推进。",
+    "career_reversed": "科层僵化、抗拒变化；引入敏捷与试点。",
+    "finance_upright": "财务稳健，适合长期投资与养老金规划。",
+    "finance_reversed": "保守到错失机会；资产过度单一。",
+    "description": "盔甲与石座象征责任与重量。",
+    "advice": "建议：以原则为锚，但保留变通通道。",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 5,
+    "name_zh": "教皇",
+    "name_en": "The Hierophant",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "传统",
+      "学习",
+      "伦理",
+      "传承",
+      "契约"
+    ],
+    "keywords_reversed": [
+      "教条",
+      "从众",
+      "形式主义",
+      "伪善"
+    ],
+    "meaning_upright": "遵循标准与伦理，向导师或体制取经。",
+    "meaning_reversed": "拘泥成规，忽略真实体验与个体差异。",
+    "love_upright": "爱情寻求正式关系、家庭与共同价值。",
+    "love_reversed": "被外在评价绑架；回到二人契合。",
+    "career_upright": "事业适合认证、培训、制度建设、合规。",
+    "career_reversed": "繁文缛节拖慢节奏；删繁就简。",
+    "finance_upright": "理财遵循稳健原则与合规产品。",
+    "finance_reversed": "盲目信教或名义下的风险；看清底层逻辑。",
+    "description": "双钥匙寓意知识/权威的开启与责任。",
+    "advice": "建议：在规则内创新，做‘懂行的异类’。",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 6,
+    "name_zh": "恋人",
+    "name_en": "The Lovers",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "选择",
+      "亲密",
+      "价值一致",
+      "吸引",
+      "契合"
+    ],
+    "keywords_reversed": [
+      "犹豫",
+      "三角关系",
+      "价值冲突",
+      "选择困难"
+    ],
+    "meaning_upright": "关于选择与承诺：用价值观校准方向。",
+    "meaning_reversed": "逃避选择让问题扩大；直面取舍。",
+    "love_upright": "爱情中的亲密与坦诚对话，关系升级。",
+    "love_reversed": "暧昧不清或多方纠缠；边界与诚实。",
+    "career_upright": "事业里做‘价值对齐’的选择与合作。",
+    "career_reversed": "摇摆拖延损失窗口期；设决策时限。",
+    "finance_upright": "财务做与长期价值一致的配置。",
+    "finance_reversed": "短线诱惑与过度分散；确立核心持仓。",
+    "description": "天使与双人象征关系受更高价值引导。",
+    "advice": "建议：先选‘谁/为何’，再选‘怎么做’。",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 7,
+    "name_zh": "战车",
+    "name_en": "The Chariot",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "胜利",
+      "意志力",
+      "自律",
+      "推进",
+      "边界"
+    ],
+    "keywords_reversed": [
+      "失控",
+      "分心",
+      "急躁",
+      "方向不一"
+    ],
+    "meaning_upright": "以强大意志整合矛盾力量，推进目标。",
+    "meaning_reversed": "缺乏节奏导致翻车；慢即是快。",
+    "love_upright": "关系中需要清晰界限与一致步调。",
+    "love_reversed": "控制与防御使情感疏离；柔软沟通。",
+    "career_upright": "事业强调目标管理、里程碑与执行力。",
+    "career_reversed": "多线并行失焦；聚焦主战场。",
+    "finance_upright": "财务上理性配置、按计划推进。",
+    "finance_reversed": "高杠杆带来风险；控制仓位。",
+    "description": "无缰狮身人面像与车象征主宰与约束。",
+    "advice": "建议：定策略—设节奏—守纪律。",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 8,
+    "name_zh": "力量",
+    "name_en": "Strength",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "温柔的力量",
+      "耐心",
+      "勇气",
+      "自我驯服"
+    ],
+    "keywords_reversed": [
+      "焦躁",
+      "压抑",
+      "失去信心",
+      "强撑"
+    ],
+    "meaning_upright": "用温柔与耐心驯服内在‘野兽’，力量来自整合。",
+    "meaning_reversed": "耗尽与急躁让局势恶化；先稳住自己。",
+    "love_upright": "关系中以同理与耐心修复连结。",
+    "love_reversed": "情绪勒索或强行控制；尊重彼此节奏。",
+    "career_upright": "事业里用影响力>权力，长期主义胜出。",
+    "career_reversed": "急功近利、KPI绑架；回到本质。",
+    "finance_upright": "财务上稳扎稳打，复利思维。",
+    "finance_reversed": "追逐高收益致风险不对称；守住底线。",
+    "description": "花环与狮子象征柔中带刚的掌控。",
+    "advice": "建议：情绪管理先行，再谈问题本身。",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 9,
+    "name_zh": "隐者",
+    "name_en": "The Hermit",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "内省",
+      "独处",
+      "智慧",
+      "导师",
+      "审视"
+    ],
+    "keywords_reversed": [
+      "孤立",
+      "停滞",
+      "逃避社交",
+      "闭门造车"
+    ],
+    "meaning_upright": "抽离喧嚣以看清真相，求索内在答案。",
+    "meaning_reversed": "过度退隐错失连接；适度回归社群。",
+    "love_upright": "爱情需要空间与节制，稳重推进。",
+    "love_reversed": "过度冷淡/回避承诺；表达你的在意。",
+    "career_upright": "事业中做复盘、研究、策略沉淀。",
+    "career_reversed": "闭环不足、不分享知识；建立传承。",
+    "finance_upright": "财务：保守持有，优先风险评估。",
+    "finance_reversed": "机会成本过高；避免‘看太久不下手’。",
+    "description": "手提灯照亮脚下：一步一脚印。",
+    "advice": "建议：暂停—复盘—再出发。",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 10,
+    "name_zh": "命运之轮",
+    "name_en": "The Wheel of Fortune",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "周期",
+      "转机",
+      "外力",
+      "机缘",
+      "变化"
+    ],
+    "keywords_reversed": [
+      "失控感",
+      "反复",
+      "错过时机",
+      "被动"
+    ],
+    "meaning_upright": "周期转向；顺势而为，抓住窗口。",
+    "meaning_reversed": "抗拒变化被动挨打；更新策略。",
+    "love_upright": "关系迎来新阶段/重启；随缘但尽力。",
+    "love_reversed": "反复分合或模式循环；看见底层课题。",
+    "career_upright": "事业遇到外部变量；灵活调整资源。",
+    "career_reversed": "把运气当策略会吃亏；回归可控项。",
+    "finance_upright": "财务注意周期与仓位管理，逢低布局。",
+    "finance_reversed": "追涨杀跌；制定纪律。",
+    "description": "轮盘寓意无常：唯一不变是变化本身。",
+    "advice": "建议：做顺周期+逆周期的双手准备。",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 11,
+    "name_zh": "正义",
+    "name_en": "Justice",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "因果",
+      "公平",
+      "决策",
+      "法律",
+      "对等"
+    ],
+    "keywords_reversed": [
+      "偏颇",
+      "失衡",
+      "逃避责任",
+      "自欺"
+    ],
+    "meaning_upright": "以事实与原则裁决，承担选择的后果。",
+    "meaning_reversed": "情感用主观看代替事实；停下自证。",
+    "love_upright": "关系里追求对等与清晰边界。",
+    "love_reversed": "斤斤计较/算计情感；留余地。",
+    "career_upright": "事业上合规、合同、审计与客观评估。",
+    "career_reversed": "双标与内外不一；建立公开透明机制。",
+    "finance_upright": "财务签约/理赔/仲裁等法律事项有进展。",
+    "finance_reversed": "诉讼存在不确定；寻求专业意见。",
+    "description": "天平与剑象征理性与果断。",
+    "advice": "建议：列证据—权衡—果断落地。",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 12,
+    "name_zh": "倒吊人",
+    "name_en": "The Hanged Man",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "暂停",
+      "换位",
+      "牺牲",
+      "觉察",
+      "顺流"
+    ],
+    "keywords_reversed": [
+      "僵局",
+      "自我牺牲过度",
+      "拖延",
+      "受困"
+    ],
+    "meaning_upright": "主动暂停，以新角度看世界，旧框架松动。",
+    "meaning_reversed": "被动卡住、无谓牺牲；重设边界与优先级。",
+    "love_upright": "关系中换位思考，释放控制。",
+    "love_reversed": "长期委屈自己以成全他人；平衡。",
+    "career_upright": "事业上迭代认知，等待更好时机。",
+    "career_reversed": "拖延成习；设定‘可控暂停’的时限。",
+    "finance_upright": "财务：暂缓大额动作，先观察。",
+    "finance_reversed": "被套牢心态；止损或调仓。",
+    "description": "光环象征新的洞见来自倒转视角。",
+    "advice": "建议：用一段高质量的暂停换更快前进。",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 13,
+    "name_zh": "死神",
+    "name_en": "Death",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "结束",
+      "蜕变",
+      "清理",
+      "放下",
+      "重生"
+    ],
+    "keywords_reversed": [
+      "抗拒改变",
+      "停滞",
+      "旧病未清",
+      "纠缠"
+    ],
+    "meaning_upright": "阶段性结束为新生让路，断舍离。",
+    "meaning_reversed": "抓住过去不放只会加剧痛苦。",
+    "love_upright": "关系里旧模式终结；可能分开或重启新模式。",
+    "love_reversed": "藕断丝连/无法放手；直面核心议题。",
+    "career_upright": "事业做组织/产品的‘止损与迭代’。",
+    "career_reversed": "拖着僵尸项目；果断收尾。",
+    "finance_upright": "财务结构调整，剥离低效资产。",
+    "finance_reversed": "死扛亏损或沉没成本；制定退出机制。",
+    "description": "黑白对比象征无常与必然。",
+    "advice": "建议：给‘结束’应有的尊严，迎接新章。",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 14,
+    "name_zh": "节制",
+    "name_en": "Temperance",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "平衡",
+      "调和",
+      "节制",
+      "复原",
+      "整合"
+    ],
+    "keywords_reversed": [
+      "失衡",
+      "极端",
+      "过度",
+      "节律紊乱"
+    ],
+    "meaning_upright": "把不同元素调至适度，水乳交融。",
+    "meaning_reversed": "走极端/熬夜透支；重建日常节律。",
+    "love_upright": "爱情中互相磨合、疗愈与温和推进。",
+    "love_reversed": "一味迁就或冷处理；开诚布公。",
+    "career_upright": "事业上跨界整合、流程优化、节奏管理。",
+    "career_reversed": "忽快忽慢、沟通断裂；建立SOP与例会。",
+    "finance_upright": "财务做比例配置与定投，稳步复原。",
+    "finance_reversed": "全仓梭哈或过度分散；回到配比。",
+    "description": "天使调水象征中道之力。",
+    "advice": "建议：用‘配比’而非‘情绪’做决定。",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 15,
+    "name_zh": "恶魔",
+    "name_en": "The Devil",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "欲望",
+      "束缚",
+      "成瘾",
+      "物化",
+      "权力"
+    ],
+    "keywords_reversed": [
+      "解脱",
+      "觉醒",
+      "断联",
+      "界限感恢复"
+    ],
+    "meaning_upright": "看见被欲望/恐惧绑架的枷锁，承认并承担。",
+    "meaning_reversed": "识别操控与依赖，拆除能量钩子。",
+    "love_upright": "关系里警惕控制、占有、PUA与性/金钱交易。",
+    "love_reversed": "勇敢设限与离开不健康关系。",
+    "career_upright": "事业上防利益输送、黑箱与职场PUA。",
+    "career_reversed": "拆分激励与约束，阳光机制化。",
+    "finance_upright": "财务警惕债务、过度杠杆与成瘾消费。",
+    "finance_reversed": "断卡断贷，做减法。",
+    "description": "角与锁链象征自我设限；钥匙在你手里。",
+    "advice": "建议：把‘短期快感’换成‘长期自由’。",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 16,
+    "name_zh": "高塔",
+    "name_en": "The Tower",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "崩塌",
+      "突变",
+      "觉醒",
+      "真相",
+      "破局"
+    ],
+    "keywords_reversed": [
+      "侥幸拖延",
+      "否认",
+      "重建缓慢",
+      "余震"
+    ],
+    "meaning_upright": "旧结构被雷击瓦解，真相逼出，危机也是出清。",
+    "meaning_reversed": "否认只会更痛；尽快止损与重建。",
+    "love_upright": "关系中爆发性事件/争吵，掀开底层问题。",
+    "love_reversed": "冷战与逃避；请面对并给出方案。",
+    "career_upright": "事业遭遇黑天鹅或重大变更；启动BCP。",
+    "career_reversed": "粉饰太平；先保命再谈增长。",
+    "finance_upright": "财务防系统性风险与连环爆；现金为王。",
+    "finance_reversed": "不设缓冲；建立安全垫。",
+    "description": "坠落王冠提醒谦卑：没有永远的堡垒。",
+    "advice": "建议：先止血—复盘—重构。",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 17,
+    "name_zh": "星星",
+    "name_en": "The Star",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "希望",
+      "疗愈",
+      "愿景",
+      "指引",
+      "真实"
+    ],
+    "keywords_reversed": [
+      "失望",
+      "怀疑",
+      "能量低",
+      "方向感弱"
+    ],
+    "meaning_upright": "黑夜后的星光：重拾希望与自我修复。",
+    "meaning_reversed": "能量不足时先补给，不要硬撑。",
+    "love_upright": "关系回暖，彼此真诚裸露自我。",
+    "love_reversed": "过度理想化；允许人性不完美。",
+    "career_upright": "事业聚焦长期愿景与用户价值，打造北极星指标。",
+    "career_reversed": "缺乏指标/落地；把愿景拆解到行动。",
+    "finance_upright": "财务走长期主义，慢就是快。",
+    "finance_reversed": "因短期波动动摇；坚持节奏。",
+    "description": "星水相映：给予与接纳的循环。",
+    "advice": "建议：写下愿景并制定可执行路线图。",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 18,
+    "name_zh": "月亮",
+    "name_en": "The Moon",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "潜意识",
+      "迷雾",
+      "焦虑",
+      "直觉测试",
+      "梦境"
+    ],
+    "keywords_reversed": [
+      "真相显现",
+      "疑虑散去",
+      "走出恐惧",
+      "清明"
+    ],
+    "meaning_upright": "情绪起伏与不安，分不清想象与事实；锚定现实。",
+    "meaning_reversed": "迷雾散开，看清真相与路径。",
+    "love_upright": "关系中不安全感与误解；沟通并求证。",
+    "love_reversed": "疑神疑鬼/投射；给彼此安全感。",
+    "career_upright": "事业需做用户/数据验证，避免拍脑袋。",
+    "career_reversed": "确认偏误严重；引入第三方评估。",
+    "finance_upright": "财务谨慎，避免夜间做决策。",
+    "finance_reversed": "信息披露后转向明朗；再行动。",
+    "description": "犬与狼对月：理性与本能的拉扯。",
+    "advice": "建议：把恐惧写下来，用事实逐条验证。",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 19,
+    "name_zh": "太阳",
+    "name_en": "The Sun",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "成功",
+      "喜悦",
+      "透明",
+      "生命力",
+      "童心"
+    ],
+    "keywords_reversed": [
+      "过度乐观",
+      "自我中心",
+      "炫耀",
+      "疲惫"
+    ],
+    "meaning_upright": "清晰、温暖与成功，能量全开。",
+    "meaning_reversed": "忽视风险或他人感受；保持谦逊与节奏。",
+    "love_upright": "关系里阳光坦诚、共同庆祝。",
+    "love_reversed": "以自我为中心忽视对方；倾听与分享。",
+    "career_upright": "事业阶段性胜利、影响力扩大。",
+    "career_reversed": "骄兵必败；继续迭代。",
+    "finance_upright": "财务状况改善，收益兑现。",
+    "finance_reversed": "冒进追高；守纪律。",
+    "description": "赤子骑马：简单即是力量。",
+    "advice": "建议：感恩/复盘/再出发。",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 20,
+    "name_zh": "审判",
+    "name_en": "Judgment",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "觉醒",
+      "召唤",
+      "复活",
+      "总结",
+      "抉择"
+    ],
+    "keywords_reversed": [
+      "犹疑",
+      "自责",
+      "错过召唤",
+      "结案拖延"
+    ],
+    "meaning_upright": "对过去做复盘与清算，作出清晰的回应与选择。",
+    "meaning_reversed": "卡在悔恨/恐惧；勇敢给出答案。",
+    "love_upright": "关系二次机会或阶段总结后的升级。",
+    "love_reversed": "反复纠缠/不肯收尾；尊重结论。",
+    "career_upright": "事业里项目收官、发布、转正或转型。",
+    "career_reversed": "迟迟不决导致机会流失；画上句点。",
+    "finance_upright": "财务：税务/清算/再配置。",
+    "finance_reversed": "拖延不报或回避亏损；一次性解决。",
+    "description": "号角唤醒：你被召唤去回应更高目的。",
+    "advice": "建议：把‘未完成事项’清单逐条了结。",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "arcana": "Major",
+    "suit": null,
+    "rank": null,
+    "number": 21,
+    "name_zh": "世界",
+    "name_en": "The World",
+    "element": null,
+    "astrology": null,
+    "keywords_upright": [
+      "完成",
+      "整合",
+      "旅程圆满",
+      "全球化",
+      "自由"
+    ],
+    "keywords_reversed": [
+      "未完成",
+      "闭环缺失",
+      "拖尾",
+      "局部最优"
+    ],
+    "meaning_upright": "阶段完成与整合，自在流动到新循环。",
+    "meaning_reversed": "还有缺口未补齐；回去补作业。",
+    "love_upright": "关系稳定成熟，共同愿景与长期承诺。",
+    "love_reversed": "差一把锁；补全沟通与仪式感。",
+    "career_upright": "事业上里程碑达成、国际化、体系化。",
+    "career_reversed": "尚未达成验收标准；完善文档与交付。",
+    "finance_upright": "财务配置更均衡，跨市场与资产多元。",
+    "finance_reversed": "清单未勾全；按计划收尾。",
+    "description": "花环与四象守护：终点亦是起点。",
+    "advice": "建议：庆祝—归档—启动下一个0→1。",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "王牌",
+      "en": "Ace"
+    },
+    "number": 1,
+    "name_zh": "权杖王牌",
+    "name_en": "Ace of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "开始",
+      "潜能",
+      "机会",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "延迟",
+      "阻滞",
+      "起步难",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（王牌主题：开始、潜能、机会）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（王牌阴影：延迟、阻滞、起步难）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（王牌：开始、潜能、机会）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（王牌：延迟、阻滞、起步难）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（王牌：开始、潜能、机会）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（王牌：延迟、阻滞、起步难）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（王牌：开始、潜能、机会）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（王牌：延迟、阻滞、起步难）。",
+    "description": "与权杖之火元素相关；王牌体现‘开始、潜能、机会’的阶段性课题。",
+    "advice": "围绕权杖/王牌的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "二",
+      "en": "Two"
+    },
+    "number": 2,
+    "name_zh": "权杖二",
+    "name_en": "Two of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "抉择",
+      "平衡",
+      "取舍",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "犹豫",
+      "失衡",
+      "回避",
+      "阻滞"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（二主题：抉择、平衡、取舍）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（二阴影：犹豫、失衡、回避）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（二：抉择、平衡、取舍）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（二：犹豫、失衡、回避）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（二：抉择、平衡、取舍）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（二：犹豫、失衡、回避）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（二：抉择、平衡、取舍）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（二：犹豫、失衡、回避）。",
+    "description": "与权杖之火元素相关；二体现‘抉择、平衡、取舍’的阶段性课题。",
+    "advice": "围绕权杖/二的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "三",
+      "en": "Three"
+    },
+    "number": 3,
+    "name_zh": "权杖三",
+    "name_en": "Three of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "成长",
+      "合作",
+      "扩展",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "受阻",
+      "第三者/延误",
+      "不协同",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（三主题：成长、合作、扩展）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（三阴影：受阻、第三者/延误、不协同）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（三：成长、合作、扩展）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（三：受阻、第三者/延误、不协同）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（三：成长、合作、扩展）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（三：受阻、第三者/延误、不协同）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（三：成长、合作、扩展）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（三：受阻、第三者/延误、不协同）。",
+    "description": "与权杖之火元素相关；三体现‘成长、合作、扩展’的阶段性课题。",
+    "advice": "围绕权杖/三的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "四",
+      "en": "Four"
+    },
+    "number": 4,
+    "name_zh": "权杖四",
+    "name_en": "Four of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "稳定",
+      "结构",
+      "休整",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "停滞",
+      "固着",
+      "不安",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（四主题：稳定、结构、休整）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（四阴影：停滞、固着、不安）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（四：稳定、结构、休整）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（四：停滞、固着、不安）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（四：稳定、结构、休整）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（四：停滞、固着、不安）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（四：稳定、结构、休整）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（四：停滞、固着、不安）。",
+    "description": "与权杖之火元素相关；四体现‘稳定、结构、休整’的阶段性课题。",
+    "advice": "围绕权杖/四的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "五",
+      "en": "Five"
+    },
+    "number": 5,
+    "name_zh": "权杖五",
+    "name_en": "Five of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "挑战",
+      "亏损",
+      "变动",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "重整",
+      "接受",
+      "调整",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（五主题：挑战、亏损、变动）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（五阴影：重整、接受、调整）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（五：挑战、亏损、变动）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（五：重整、接受、调整）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（五：挑战、亏损、变动）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（五：重整、接受、调整）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（五：挑战、亏损、变动）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（五：重整、接受、调整）。",
+    "description": "与权杖之火元素相关；五体现‘挑战、亏损、变动’的阶段性课题。",
+    "advice": "围绕权杖/五的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "六",
+      "en": "Six"
+    },
+    "number": 6,
+    "name_zh": "权杖六",
+    "name_en": "Six of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "和谐",
+      "支持",
+      "流动",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "失衡",
+      "付出/索取不均",
+      "停滞",
+      "阻滞"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（六主题：和谐、支持、流动）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（六阴影：失衡、付出/索取不均、停滞）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（六：和谐、支持、流动）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（六：失衡、付出/索取不均、停滞）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（六：和谐、支持、流动）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（六：失衡、付出/索取不均、停滞）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（六：和谐、支持、流动）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（六：失衡、付出/索取不均、停滞）。",
+    "description": "与权杖之火元素相关；六体现‘和谐、支持、流动’的阶段性课题。",
+    "advice": "围绕权杖/六的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "七",
+      "en": "Seven"
+    },
+    "number": 7,
+    "name_zh": "权杖七",
+    "name_en": "Seven of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "评估",
+      "防守",
+      "信念",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "分心",
+      "固执",
+      "策略需改",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（七主题：评估、防守、信念）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（七阴影：分心、固执、策略需改）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（七：评估、防守、信念）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（七：分心、固执、策略需改）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（七：评估、防守、信念）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（七：分心、固执、策略需改）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（七：评估、防守、信念）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（七：分心、固执、策略需改）。",
+    "description": "与权杖之火元素相关；七体现‘评估、防守、信念’的阶段性课题。",
+    "advice": "围绕权杖/七的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "八",
+      "en": "Eight"
+    },
+    "number": 8,
+    "name_zh": "权杖八",
+    "name_en": "Eight of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "专注/推进",
+      "技能/速度",
+      "边界",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "倦怠",
+      "拖延",
+      "方向偏",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（八主题：专注/推进、技能/速度、边界）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（八阴影：倦怠、拖延、方向偏）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（八：专注/推进、技能/速度、边界）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（八：倦怠、拖延、方向偏）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（八：专注/推进、技能/速度、边界）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（八：倦怠、拖延、方向偏）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（八：专注/推进、技能/速度、边界）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（八：倦怠、拖延、方向偏）。",
+    "description": "与权杖之火元素相关；八体现‘专注/推进、技能/速度、边界’的阶段性课题。",
+    "advice": "围绕权杖/八的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "九",
+      "en": "Nine"
+    },
+    "number": 9,
+    "name_zh": "权杖九",
+    "name_en": "Nine of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "成果临门",
+      "自守",
+      "韧性",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "疲惫",
+      "担忧",
+      "迟滞",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（九主题：成果临门、自守、韧性）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（九阴影：疲惫、担忧、迟滞）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（九：成果临门、自守、韧性）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（九：疲惫、担忧、迟滞）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（九：成果临门、自守、韧性）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（九：疲惫、担忧、迟滞）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（九：成果临门、自守、韧性）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（九：疲惫、担忧、迟滞）。",
+    "description": "与权杖之火元素相关；九体现‘成果临门、自守、韧性’的阶段性课题。",
+    "advice": "围绕权杖/九的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "十",
+      "en": "Ten"
+    },
+    "number": 10,
+    "name_zh": "权杖十",
+    "name_en": "Ten of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "完成/负荷",
+      "循环终章",
+      "收束",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "压力过大",
+      "崩溃",
+      "清算",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（十主题：完成/负荷、循环终章、收束）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（十阴影：压力过大、崩溃、清算）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（十：完成/负荷、循环终章、收束）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（十：压力过大、崩溃、清算）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（十：完成/负荷、循环终章、收束）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（十：压力过大、崩溃、清算）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（十：完成/负荷、循环终章、收束）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（十：压力过大、崩溃、清算）。",
+    "description": "与权杖之火元素相关；十体现‘完成/负荷、循环终章、收束’的阶段性课题。",
+    "advice": "围绕权杖/十的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "侍卫",
+      "en": "Page"
+    },
+    "number": 11,
+    "name_zh": "权杖侍卫",
+    "name_en": "Page of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "消息",
+      "学习",
+      "新手",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "幼稚",
+      "信息不全",
+      "拖延",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（侍卫主题：消息、学习、新手）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（侍卫阴影：幼稚、信息不全、拖延）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（侍卫：消息、学习、新手）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（侍卫：幼稚、信息不全、拖延）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（侍卫：消息、学习、新手）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（侍卫：幼稚、信息不全、拖延）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（侍卫：消息、学习、新手）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（侍卫：幼稚、信息不全、拖延）。",
+    "description": "与权杖之火元素相关；侍卫体现‘消息、学习、新手’的阶段性课题。",
+    "advice": "围绕权杖/侍卫的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "骑士",
+      "en": "Knight"
+    },
+    "number": 12,
+    "name_zh": "权杖骑士",
+    "name_en": "Knight of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "行动",
+      "执行",
+      "变化",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "鲁莽/迟缓",
+      "方向失衡",
+      "极端",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（骑士主题：行动、执行、变化）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（骑士阴影：鲁莽/迟缓、方向失衡、极端）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（骑士：行动、执行、变化）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（骑士：行动、执行、变化）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（骑士：行动、执行、变化）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "description": "与权杖之火元素相关；骑士体现‘行动、执行、变化’的阶段性课题。",
+    "advice": "围绕权杖/骑士的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "王后",
+      "en": "Queen"
+    },
+    "number": 13,
+    "name_zh": "权杖王后",
+    "name_en": "Queen of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "内在掌握",
+      "滋养/洞察",
+      "成熟",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "情绪化",
+      "被动攻击",
+      "操控",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（王后主题：内在掌握、滋养/洞察、成熟）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（王后阴影：情绪化、被动攻击、操控）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（王后：内在掌握、滋养/洞察、成熟）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（王后：情绪化、被动攻击、操控）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（王后：内在掌握、滋养/洞察、成熟）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（王后：情绪化、被动攻击、操控）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（王后：内在掌握、滋养/洞察、成熟）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（王后：情绪化、被动攻击、操控）。",
+    "description": "与权杖之火元素相关；王后体现‘内在掌握、滋养/洞察、成熟’的阶段性课题。",
+    "advice": "围绕权杖/王后的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "权杖",
+      "en": "Wands"
+    },
+    "rank": {
+      "zh": "国王",
+      "en": "King"
+    },
+    "number": 14,
+    "name_zh": "权杖国王",
+    "name_en": "King of Wands",
+    "element": "火",
+    "astrology": null,
+    "keywords_upright": [
+      "领导",
+      "掌控",
+      "专业",
+      "行动",
+      "热情",
+      "目标",
+      "冒险"
+    ],
+    "keywords_reversed": [
+      "独断",
+      "僵化",
+      "疏离",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "将热情化为行动，推进目标与探索。（国王主题：领导、掌控、专业）。",
+    "meaning_reversed": "热而不实、三分钟热度或方向不清。（国王阴影：独断、僵化、疏离）。",
+    "love_upright": "关系需要共同愿景与冒险精神。（国王：领导、掌控、专业）。",
+    "love_reversed": "冲动/争执；放慢脚步，讲方法。（国王：独断、僵化、疏离）。",
+    "career_upright": "适合创业/推进项目，强调执行与影响力。（国王：领导、掌控、专业）。",
+    "career_reversed": "目标分散或过度好战；聚焦并协调。（国王：独断、僵化、疏离）。",
+    "finance_upright": "积极但理性配置，投资自我增长。（国王：领导、掌控、专业）。",
+    "finance_reversed": "投机/追高；设纪律与止损。（国王：独断、僵化、疏离）。",
+    "description": "与权杖之火元素相关；国王体现‘领导、掌控、专业’的阶段性课题。",
+    "advice": "围绕权杖/国王的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "王牌",
+      "en": "Ace"
+    },
+    "number": 1,
+    "name_zh": "圣杯王牌",
+    "name_en": "Ace of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "开始",
+      "潜能",
+      "机会",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "延迟",
+      "阻滞",
+      "起步难",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（王牌主题：开始、潜能、机会）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（王牌阴影：延迟、阻滞、起步难）。",
+    "love_upright": "亲密、共情与信任加深。（王牌：开始、潜能、机会）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（王牌：延迟、阻滞、起步难）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（王牌：开始、潜能、机会）。",
+    "career_reversed": "感性压过理性；设边界与流程。（王牌：延迟、阻滞、起步难）。",
+    "finance_upright": "温和理财，避免情绪化消费。（王牌：开始、潜能、机会）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（王牌：延迟、阻滞、起步难）。",
+    "description": "与圣杯之水元素相关；王牌体现‘开始、潜能、机会’的阶段性课题。",
+    "advice": "围绕圣杯/王牌的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "二",
+      "en": "Two"
+    },
+    "number": 2,
+    "name_zh": "圣杯二",
+    "name_en": "Two of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "抉择",
+      "平衡",
+      "取舍",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "犹豫",
+      "失衡",
+      "回避",
+      "阻滞"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（二主题：抉择、平衡、取舍）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（二阴影：犹豫、失衡、回避）。",
+    "love_upright": "亲密、共情与信任加深。（二：抉择、平衡、取舍）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（二：犹豫、失衡、回避）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（二：抉择、平衡、取舍）。",
+    "career_reversed": "感性压过理性；设边界与流程。（二：犹豫、失衡、回避）。",
+    "finance_upright": "温和理财，避免情绪化消费。（二：抉择、平衡、取舍）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（二：犹豫、失衡、回避）。",
+    "description": "与圣杯之水元素相关；二体现‘抉择、平衡、取舍’的阶段性课题。",
+    "advice": "围绕圣杯/二的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "三",
+      "en": "Three"
+    },
+    "number": 3,
+    "name_zh": "圣杯三",
+    "name_en": "Three of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "成长",
+      "合作",
+      "扩展",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "受阻",
+      "第三者/延误",
+      "不协同",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（三主题：成长、合作、扩展）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（三阴影：受阻、第三者/延误、不协同）。",
+    "love_upright": "亲密、共情与信任加深。（三：成长、合作、扩展）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（三：受阻、第三者/延误、不协同）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（三：成长、合作、扩展）。",
+    "career_reversed": "感性压过理性；设边界与流程。（三：受阻、第三者/延误、不协同）。",
+    "finance_upright": "温和理财，避免情绪化消费。（三：成长、合作、扩展）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（三：受阻、第三者/延误、不协同）。",
+    "description": "与圣杯之水元素相关；三体现‘成长、合作、扩展’的阶段性课题。",
+    "advice": "围绕圣杯/三的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "四",
+      "en": "Four"
+    },
+    "number": 4,
+    "name_zh": "圣杯四",
+    "name_en": "Four of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "稳定",
+      "结构",
+      "休整",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "停滞",
+      "固着",
+      "不安",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（四主题：稳定、结构、休整）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（四阴影：停滞、固着、不安）。",
+    "love_upright": "亲密、共情与信任加深。（四：稳定、结构、休整）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（四：停滞、固着、不安）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（四：稳定、结构、休整）。",
+    "career_reversed": "感性压过理性；设边界与流程。（四：停滞、固着、不安）。",
+    "finance_upright": "温和理财，避免情绪化消费。（四：稳定、结构、休整）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（四：停滞、固着、不安）。",
+    "description": "与圣杯之水元素相关；四体现‘稳定、结构、休整’的阶段性课题。",
+    "advice": "围绕圣杯/四的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "五",
+      "en": "Five"
+    },
+    "number": 5,
+    "name_zh": "圣杯五",
+    "name_en": "Five of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "挑战",
+      "亏损",
+      "变动",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "重整",
+      "接受",
+      "调整",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（五主题：挑战、亏损、变动）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（五阴影：重整、接受、调整）。",
+    "love_upright": "亲密、共情与信任加深。（五：挑战、亏损、变动）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（五：重整、接受、调整）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（五：挑战、亏损、变动）。",
+    "career_reversed": "感性压过理性；设边界与流程。（五：重整、接受、调整）。",
+    "finance_upright": "温和理财，避免情绪化消费。（五：挑战、亏损、变动）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（五：重整、接受、调整）。",
+    "description": "与圣杯之水元素相关；五体现‘挑战、亏损、变动’的阶段性课题。",
+    "advice": "围绕圣杯/五的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "六",
+      "en": "Six"
+    },
+    "number": 6,
+    "name_zh": "圣杯六",
+    "name_en": "Six of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "和谐",
+      "支持",
+      "流动",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "失衡",
+      "付出/索取不均",
+      "停滞",
+      "阻滞"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（六主题：和谐、支持、流动）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（六阴影：失衡、付出/索取不均、停滞）。",
+    "love_upright": "亲密、共情与信任加深。（六：和谐、支持、流动）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（六：失衡、付出/索取不均、停滞）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（六：和谐、支持、流动）。",
+    "career_reversed": "感性压过理性；设边界与流程。（六：失衡、付出/索取不均、停滞）。",
+    "finance_upright": "温和理财，避免情绪化消费。（六：和谐、支持、流动）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（六：失衡、付出/索取不均、停滞）。",
+    "description": "与圣杯之水元素相关；六体现‘和谐、支持、流动’的阶段性课题。",
+    "advice": "围绕圣杯/六的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "七",
+      "en": "Seven"
+    },
+    "number": 7,
+    "name_zh": "圣杯七",
+    "name_en": "Seven of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "评估",
+      "防守",
+      "信念",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "分心",
+      "固执",
+      "策略需改",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（七主题：评估、防守、信念）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（七阴影：分心、固执、策略需改）。",
+    "love_upright": "亲密、共情与信任加深。（七：评估、防守、信念）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（七：分心、固执、策略需改）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（七：评估、防守、信念）。",
+    "career_reversed": "感性压过理性；设边界与流程。（七：分心、固执、策略需改）。",
+    "finance_upright": "温和理财，避免情绪化消费。（七：评估、防守、信念）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（七：分心、固执、策略需改）。",
+    "description": "与圣杯之水元素相关；七体现‘评估、防守、信念’的阶段性课题。",
+    "advice": "围绕圣杯/七的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "八",
+      "en": "Eight"
+    },
+    "number": 8,
+    "name_zh": "圣杯八",
+    "name_en": "Eight of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "专注/推进",
+      "技能/速度",
+      "边界",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "倦怠",
+      "拖延",
+      "方向偏",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（八主题：专注/推进、技能/速度、边界）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（八阴影：倦怠、拖延、方向偏）。",
+    "love_upright": "亲密、共情与信任加深。（八：专注/推进、技能/速度、边界）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（八：倦怠、拖延、方向偏）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（八：专注/推进、技能/速度、边界）。",
+    "career_reversed": "感性压过理性；设边界与流程。（八：倦怠、拖延、方向偏）。",
+    "finance_upright": "温和理财，避免情绪化消费。（八：专注/推进、技能/速度、边界）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（八：倦怠、拖延、方向偏）。",
+    "description": "与圣杯之水元素相关；八体现‘专注/推进、技能/速度、边界’的阶段性课题。",
+    "advice": "围绕圣杯/八的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "九",
+      "en": "Nine"
+    },
+    "number": 9,
+    "name_zh": "圣杯九",
+    "name_en": "Nine of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "成果临门",
+      "自守",
+      "韧性",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "疲惫",
+      "担忧",
+      "迟滞",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（九主题：成果临门、自守、韧性）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（九阴影：疲惫、担忧、迟滞）。",
+    "love_upright": "亲密、共情与信任加深。（九：成果临门、自守、韧性）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（九：疲惫、担忧、迟滞）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（九：成果临门、自守、韧性）。",
+    "career_reversed": "感性压过理性；设边界与流程。（九：疲惫、担忧、迟滞）。",
+    "finance_upright": "温和理财，避免情绪化消费。（九：成果临门、自守、韧性）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（九：疲惫、担忧、迟滞）。",
+    "description": "与圣杯之水元素相关；九体现‘成果临门、自守、韧性’的阶段性课题。",
+    "advice": "围绕圣杯/九的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "十",
+      "en": "Ten"
+    },
+    "number": 10,
+    "name_zh": "圣杯十",
+    "name_en": "Ten of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "完成/负荷",
+      "循环终章",
+      "收束",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "压力过大",
+      "崩溃",
+      "清算",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（十主题：完成/负荷、循环终章、收束）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（十阴影：压力过大、崩溃、清算）。",
+    "love_upright": "亲密、共情与信任加深。（十：完成/负荷、循环终章、收束）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（十：压力过大、崩溃、清算）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（十：完成/负荷、循环终章、收束）。",
+    "career_reversed": "感性压过理性；设边界与流程。（十：压力过大、崩溃、清算）。",
+    "finance_upright": "温和理财，避免情绪化消费。（十：完成/负荷、循环终章、收束）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（十：压力过大、崩溃、清算）。",
+    "description": "与圣杯之水元素相关；十体现‘完成/负荷、循环终章、收束’的阶段性课题。",
+    "advice": "围绕圣杯/十的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "侍卫",
+      "en": "Page"
+    },
+    "number": 11,
+    "name_zh": "圣杯侍卫",
+    "name_en": "Page of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "消息",
+      "学习",
+      "新手",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "幼稚",
+      "信息不全",
+      "拖延",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（侍卫主题：消息、学习、新手）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（侍卫阴影：幼稚、信息不全、拖延）。",
+    "love_upright": "亲密、共情与信任加深。（侍卫：消息、学习、新手）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（侍卫：幼稚、信息不全、拖延）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（侍卫：消息、学习、新手）。",
+    "career_reversed": "感性压过理性；设边界与流程。（侍卫：幼稚、信息不全、拖延）。",
+    "finance_upright": "温和理财，避免情绪化消费。（侍卫：消息、学习、新手）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（侍卫：幼稚、信息不全、拖延）。",
+    "description": "与圣杯之水元素相关；侍卫体现‘消息、学习、新手’的阶段性课题。",
+    "advice": "围绕圣杯/侍卫的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "骑士",
+      "en": "Knight"
+    },
+    "number": 12,
+    "name_zh": "圣杯骑士",
+    "name_en": "Knight of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "行动",
+      "执行",
+      "变化",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "鲁莽/迟缓",
+      "方向失衡",
+      "极端",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（骑士主题：行动、执行、变化）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（骑士阴影：鲁莽/迟缓、方向失衡、极端）。",
+    "love_upright": "亲密、共情与信任加深。（骑士：行动、执行、变化）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（骑士：行动、执行、变化）。",
+    "career_reversed": "感性压过理性；设边界与流程。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "finance_upright": "温和理财，避免情绪化消费。（骑士：行动、执行、变化）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "description": "与圣杯之水元素相关；骑士体现‘行动、执行、变化’的阶段性课题。",
+    "advice": "围绕圣杯/骑士的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "王后",
+      "en": "Queen"
+    },
+    "number": 13,
+    "name_zh": "圣杯王后",
+    "name_en": "Queen of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "内在掌握",
+      "滋养/洞察",
+      "成熟",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "情绪化",
+      "被动攻击",
+      "操控",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（王后主题：内在掌握、滋养/洞察、成熟）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（王后阴影：情绪化、被动攻击、操控）。",
+    "love_upright": "亲密、共情与信任加深。（王后：内在掌握、滋养/洞察、成熟）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（王后：情绪化、被动攻击、操控）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（王后：内在掌握、滋养/洞察、成熟）。",
+    "career_reversed": "感性压过理性；设边界与流程。（王后：情绪化、被动攻击、操控）。",
+    "finance_upright": "温和理财，避免情绪化消费。（王后：内在掌握、滋养/洞察、成熟）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（王后：情绪化、被动攻击、操控）。",
+    "description": "与圣杯之水元素相关；王后体现‘内在掌握、滋养/洞察、成熟’的阶段性课题。",
+    "advice": "围绕圣杯/王后的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "圣杯",
+      "en": "Cups"
+    },
+    "rank": {
+      "zh": "国王",
+      "en": "King"
+    },
+    "number": 14,
+    "name_zh": "圣杯国王",
+    "name_en": "King of Cups",
+    "element": "水",
+    "astrology": null,
+    "keywords_upright": [
+      "领导",
+      "掌控",
+      "专业",
+      "情感",
+      "关系",
+      "直觉",
+      "滋养"
+    ],
+    "keywords_reversed": [
+      "独断",
+      "僵化",
+      "疏离",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "情感流动、连接与疗愈，尊重直觉。（国王主题：领导、掌控、专业）。",
+    "meaning_reversed": "情绪泛滥或封闭，逃避沟通。（国王阴影：独断、僵化、疏离）。",
+    "love_upright": "亲密、共情与信任加深。（国王：领导、掌控、专业）。",
+    "love_reversed": "不安全感/冷淡；表达与修复。（国王：独断、僵化、疏离）。",
+    "career_upright": "以用户体验与团队氛围为先，适合创意/助人领域。（国王：领导、掌控、专业）。",
+    "career_reversed": "感性压过理性；设边界与流程。（国王：独断、僵化、疏离）。",
+    "finance_upright": "温和理财，避免情绪化消费。（国王：领导、掌控、专业）。",
+    "finance_reversed": "购物疗伤或心态波动影响决策。（国王：独断、僵化、疏离）。",
+    "description": "与圣杯之水元素相关；国王体现‘领导、掌控、专业’的阶段性课题。",
+    "advice": "围绕圣杯/国王的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "王牌",
+      "en": "Ace"
+    },
+    "number": 1,
+    "name_zh": "宝剑王牌",
+    "name_en": "Ace of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "开始",
+      "潜能",
+      "机会",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "延迟",
+      "阻滞",
+      "起步难",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（王牌主题：开始、潜能、机会）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（王牌阴影：延迟、阻滞、起步难）。",
+    "love_upright": "坦诚沟通、厘清期待。（王牌：开始、潜能、机会）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（王牌：延迟、阻滞、起步难）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（王牌：开始、潜能、机会）。",
+    "career_reversed": "内耗与争论；回归问题本身。（王牌：延迟、阻滞、起步难）。",
+    "finance_upright": "用数据与规则管理风险。（王牌：开始、潜能、机会）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（王牌：延迟、阻滞、起步难）。",
+    "description": "与宝剑之风元素相关；王牌体现‘开始、潜能、机会’的阶段性课题。",
+    "advice": "围绕宝剑/王牌的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "二",
+      "en": "Two"
+    },
+    "number": 2,
+    "name_zh": "宝剑二",
+    "name_en": "Two of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "抉择",
+      "平衡",
+      "取舍",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "犹豫",
+      "失衡",
+      "回避",
+      "阻滞"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（二主题：抉择、平衡、取舍）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（二阴影：犹豫、失衡、回避）。",
+    "love_upright": "坦诚沟通、厘清期待。（二：抉择、平衡、取舍）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（二：犹豫、失衡、回避）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（二：抉择、平衡、取舍）。",
+    "career_reversed": "内耗与争论；回归问题本身。（二：犹豫、失衡、回避）。",
+    "finance_upright": "用数据与规则管理风险。（二：抉择、平衡、取舍）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（二：犹豫、失衡、回避）。",
+    "description": "与宝剑之风元素相关；二体现‘抉择、平衡、取舍’的阶段性课题。",
+    "advice": "围绕宝剑/二的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "三",
+      "en": "Three"
+    },
+    "number": 3,
+    "name_zh": "宝剑三",
+    "name_en": "Three of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "成长",
+      "合作",
+      "扩展",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "受阻",
+      "第三者/延误",
+      "不协同",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（三主题：成长、合作、扩展）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（三阴影：受阻、第三者/延误、不协同）。",
+    "love_upright": "坦诚沟通、厘清期待。（三：成长、合作、扩展）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（三：受阻、第三者/延误、不协同）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（三：成长、合作、扩展）。",
+    "career_reversed": "内耗与争论；回归问题本身。（三：受阻、第三者/延误、不协同）。",
+    "finance_upright": "用数据与规则管理风险。（三：成长、合作、扩展）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（三：受阻、第三者/延误、不协同）。",
+    "description": "与宝剑之风元素相关；三体现‘成长、合作、扩展’的阶段性课题。",
+    "advice": "围绕宝剑/三的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "四",
+      "en": "Four"
+    },
+    "number": 4,
+    "name_zh": "宝剑四",
+    "name_en": "Four of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "稳定",
+      "结构",
+      "休整",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "停滞",
+      "固着",
+      "不安",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（四主题：稳定、结构、休整）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（四阴影：停滞、固着、不安）。",
+    "love_upright": "坦诚沟通、厘清期待。（四：稳定、结构、休整）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（四：停滞、固着、不安）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（四：稳定、结构、休整）。",
+    "career_reversed": "内耗与争论；回归问题本身。（四：停滞、固着、不安）。",
+    "finance_upright": "用数据与规则管理风险。（四：稳定、结构、休整）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（四：停滞、固着、不安）。",
+    "description": "与宝剑之风元素相关；四体现‘稳定、结构、休整’的阶段性课题。",
+    "advice": "围绕宝剑/四的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "五",
+      "en": "Five"
+    },
+    "number": 5,
+    "name_zh": "宝剑五",
+    "name_en": "Five of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "挑战",
+      "亏损",
+      "变动",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "重整",
+      "接受",
+      "调整",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（五主题：挑战、亏损、变动）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（五阴影：重整、接受、调整）。",
+    "love_upright": "坦诚沟通、厘清期待。（五：挑战、亏损、变动）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（五：重整、接受、调整）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（五：挑战、亏损、变动）。",
+    "career_reversed": "内耗与争论；回归问题本身。（五：重整、接受、调整）。",
+    "finance_upright": "用数据与规则管理风险。（五：挑战、亏损、变动）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（五：重整、接受、调整）。",
+    "description": "与宝剑之风元素相关；五体现‘挑战、亏损、变动’的阶段性课题。",
+    "advice": "围绕宝剑/五的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "六",
+      "en": "Six"
+    },
+    "number": 6,
+    "name_zh": "宝剑六",
+    "name_en": "Six of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "和谐",
+      "支持",
+      "流动",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "失衡",
+      "付出/索取不均",
+      "停滞",
+      "阻滞"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（六主题：和谐、支持、流动）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（六阴影：失衡、付出/索取不均、停滞）。",
+    "love_upright": "坦诚沟通、厘清期待。（六：和谐、支持、流动）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（六：失衡、付出/索取不均、停滞）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（六：和谐、支持、流动）。",
+    "career_reversed": "内耗与争论；回归问题本身。（六：失衡、付出/索取不均、停滞）。",
+    "finance_upright": "用数据与规则管理风险。（六：和谐、支持、流动）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（六：失衡、付出/索取不均、停滞）。",
+    "description": "与宝剑之风元素相关；六体现‘和谐、支持、流动’的阶段性课题。",
+    "advice": "围绕宝剑/六的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "七",
+      "en": "Seven"
+    },
+    "number": 7,
+    "name_zh": "宝剑七",
+    "name_en": "Seven of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "评估",
+      "防守",
+      "信念",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "分心",
+      "固执",
+      "策略需改",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（七主题：评估、防守、信念）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（七阴影：分心、固执、策略需改）。",
+    "love_upright": "坦诚沟通、厘清期待。（七：评估、防守、信念）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（七：分心、固执、策略需改）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（七：评估、防守、信念）。",
+    "career_reversed": "内耗与争论；回归问题本身。（七：分心、固执、策略需改）。",
+    "finance_upright": "用数据与规则管理风险。（七：评估、防守、信念）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（七：分心、固执、策略需改）。",
+    "description": "与宝剑之风元素相关；七体现‘评估、防守、信念’的阶段性课题。",
+    "advice": "围绕宝剑/七的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "八",
+      "en": "Eight"
+    },
+    "number": 8,
+    "name_zh": "宝剑八",
+    "name_en": "Eight of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "专注/推进",
+      "技能/速度",
+      "边界",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "倦怠",
+      "拖延",
+      "方向偏",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（八主题：专注/推进、技能/速度、边界）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（八阴影：倦怠、拖延、方向偏）。",
+    "love_upright": "坦诚沟通、厘清期待。（八：专注/推进、技能/速度、边界）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（八：倦怠、拖延、方向偏）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（八：专注/推进、技能/速度、边界）。",
+    "career_reversed": "内耗与争论；回归问题本身。（八：倦怠、拖延、方向偏）。",
+    "finance_upright": "用数据与规则管理风险。（八：专注/推进、技能/速度、边界）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（八：倦怠、拖延、方向偏）。",
+    "description": "与宝剑之风元素相关；八体现‘专注/推进、技能/速度、边界’的阶段性课题。",
+    "advice": "围绕宝剑/八的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "九",
+      "en": "Nine"
+    },
+    "number": 9,
+    "name_zh": "宝剑九",
+    "name_en": "Nine of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "成果临门",
+      "自守",
+      "韧性",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "疲惫",
+      "担忧",
+      "迟滞",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（九主题：成果临门、自守、韧性）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（九阴影：疲惫、担忧、迟滞）。",
+    "love_upright": "坦诚沟通、厘清期待。（九：成果临门、自守、韧性）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（九：疲惫、担忧、迟滞）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（九：成果临门、自守、韧性）。",
+    "career_reversed": "内耗与争论；回归问题本身。（九：疲惫、担忧、迟滞）。",
+    "finance_upright": "用数据与规则管理风险。（九：成果临门、自守、韧性）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（九：疲惫、担忧、迟滞）。",
+    "description": "与宝剑之风元素相关；九体现‘成果临门、自守、韧性’的阶段性课题。",
+    "advice": "围绕宝剑/九的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "十",
+      "en": "Ten"
+    },
+    "number": 10,
+    "name_zh": "宝剑十",
+    "name_en": "Ten of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "完成/负荷",
+      "循环终章",
+      "收束",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "压力过大",
+      "崩溃",
+      "清算",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（十主题：完成/负荷、循环终章、收束）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（十阴影：压力过大、崩溃、清算）。",
+    "love_upright": "坦诚沟通、厘清期待。（十：完成/负荷、循环终章、收束）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（十：压力过大、崩溃、清算）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（十：完成/负荷、循环终章、收束）。",
+    "career_reversed": "内耗与争论；回归问题本身。（十：压力过大、崩溃、清算）。",
+    "finance_upright": "用数据与规则管理风险。（十：完成/负荷、循环终章、收束）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（十：压力过大、崩溃、清算）。",
+    "description": "与宝剑之风元素相关；十体现‘完成/负荷、循环终章、收束’的阶段性课题。",
+    "advice": "围绕宝剑/十的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "侍卫",
+      "en": "Page"
+    },
+    "number": 11,
+    "name_zh": "宝剑侍卫",
+    "name_en": "Page of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "消息",
+      "学习",
+      "新手",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "幼稚",
+      "信息不全",
+      "拖延",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（侍卫主题：消息、学习、新手）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（侍卫阴影：幼稚、信息不全、拖延）。",
+    "love_upright": "坦诚沟通、厘清期待。（侍卫：消息、学习、新手）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（侍卫：幼稚、信息不全、拖延）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（侍卫：消息、学习、新手）。",
+    "career_reversed": "内耗与争论；回归问题本身。（侍卫：幼稚、信息不全、拖延）。",
+    "finance_upright": "用数据与规则管理风险。（侍卫：消息、学习、新手）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（侍卫：幼稚、信息不全、拖延）。",
+    "description": "与宝剑之风元素相关；侍卫体现‘消息、学习、新手’的阶段性课题。",
+    "advice": "围绕宝剑/侍卫的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "骑士",
+      "en": "Knight"
+    },
+    "number": 12,
+    "name_zh": "宝剑骑士",
+    "name_en": "Knight of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "行动",
+      "执行",
+      "变化",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "鲁莽/迟缓",
+      "方向失衡",
+      "极端",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（骑士主题：行动、执行、变化）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（骑士阴影：鲁莽/迟缓、方向失衡、极端）。",
+    "love_upright": "坦诚沟通、厘清期待。（骑士：行动、执行、变化）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（骑士：行动、执行、变化）。",
+    "career_reversed": "内耗与争论；回归问题本身。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "finance_upright": "用数据与规则管理风险。（骑士：行动、执行、变化）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "description": "与宝剑之风元素相关；骑士体现‘行动、执行、变化’的阶段性课题。",
+    "advice": "围绕宝剑/骑士的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "王后",
+      "en": "Queen"
+    },
+    "number": 13,
+    "name_zh": "宝剑王后",
+    "name_en": "Queen of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "内在掌握",
+      "滋养/洞察",
+      "成熟",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "情绪化",
+      "被动攻击",
+      "操控",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（王后主题：内在掌握、滋养/洞察、成熟）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（王后阴影：情绪化、被动攻击、操控）。",
+    "love_upright": "坦诚沟通、厘清期待。（王后：内在掌握、滋养/洞察、成熟）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（王后：情绪化、被动攻击、操控）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（王后：内在掌握、滋养/洞察、成熟）。",
+    "career_reversed": "内耗与争论；回归问题本身。（王后：情绪化、被动攻击、操控）。",
+    "finance_upright": "用数据与规则管理风险。（王后：内在掌握、滋养/洞察、成熟）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（王后：情绪化、被动攻击、操控）。",
+    "description": "与宝剑之风元素相关；王后体现‘内在掌握、滋养/洞察、成熟’的阶段性课题。",
+    "advice": "围绕宝剑/王后的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "宝剑",
+      "en": "Swords"
+    },
+    "rank": {
+      "zh": "国王",
+      "en": "King"
+    },
+    "number": 14,
+    "name_zh": "宝剑国王",
+    "name_en": "King of Swords",
+    "element": "风",
+    "astrology": null,
+    "keywords_upright": [
+      "领导",
+      "掌控",
+      "专业",
+      "思想",
+      "沟通",
+      "真相",
+      "冲突"
+    ],
+    "keywords_reversed": [
+      "独断",
+      "僵化",
+      "疏离",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "理性、真相与决断，穿透迷雾。（国王主题：领导、掌控、专业）。",
+    "meaning_reversed": "思维过度/偏见/沟通失灵。（国王阴影：独断、僵化、疏离）。",
+    "love_upright": "坦诚沟通、厘清期待。（国王：领导、掌控、专业）。",
+    "love_reversed": "言语伤人或冷战；用事实而非指责。（国王：独断、僵化、疏离）。",
+    "career_upright": "分析、策略、写作/法务/科技相关。（国王：领导、掌控、专业）。",
+    "career_reversed": "内耗与争论；回归问题本身。（国王：独断、僵化、疏离）。",
+    "finance_upright": "用数据与规则管理风险。（国王：领导、掌控、专业）。",
+    "finance_reversed": "合同/费用/纠纷；请核对细节。（国王：独断、僵化、疏离）。",
+    "description": "与宝剑之风元素相关；国王体现‘领导、掌控、专业’的阶段性课题。",
+    "advice": "围绕宝剑/国王的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "王牌",
+      "en": "Ace"
+    },
+    "number": 1,
+    "name_zh": "五角星王牌",
+    "name_en": "Ace of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "开始",
+      "潜能",
+      "机会",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "延迟",
+      "阻滞",
+      "起步难",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（王牌主题：开始、潜能、机会）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（王牌阴影：延迟、阻滞、起步难）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（王牌：开始、潜能、机会）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（王牌：延迟、阻滞、起步难）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（王牌：开始、潜能、机会）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（王牌：延迟、阻滞、起步难）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（王牌：开始、潜能、机会）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（王牌：延迟、阻滞、起步难）。",
+    "description": "与五角星之土元素相关；王牌体现‘开始、潜能、机会’的阶段性课题。",
+    "advice": "围绕五角星/王牌的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "二",
+      "en": "Two"
+    },
+    "number": 2,
+    "name_zh": "五角星二",
+    "name_en": "Two of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "抉择",
+      "平衡",
+      "取舍",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "犹豫",
+      "失衡",
+      "回避",
+      "阻滞"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（二主题：抉择、平衡、取舍）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（二阴影：犹豫、失衡、回避）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（二：抉择、平衡、取舍）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（二：犹豫、失衡、回避）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（二：抉择、平衡、取舍）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（二：犹豫、失衡、回避）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（二：抉择、平衡、取舍）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（二：犹豫、失衡、回避）。",
+    "description": "与五角星之土元素相关；二体现‘抉择、平衡、取舍’的阶段性课题。",
+    "advice": "围绕五角星/二的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "三",
+      "en": "Three"
+    },
+    "number": 3,
+    "name_zh": "五角星三",
+    "name_en": "Three of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "成长",
+      "合作",
+      "扩展",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "受阻",
+      "第三者/延误",
+      "不协同",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（三主题：成长、合作、扩展）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（三阴影：受阻、第三者/延误、不协同）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（三：成长、合作、扩展）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（三：受阻、第三者/延误、不协同）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（三：成长、合作、扩展）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（三：受阻、第三者/延误、不协同）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（三：成长、合作、扩展）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（三：受阻、第三者/延误、不协同）。",
+    "description": "与五角星之土元素相关；三体现‘成长、合作、扩展’的阶段性课题。",
+    "advice": "围绕五角星/三的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "四",
+      "en": "Four"
+    },
+    "number": 4,
+    "name_zh": "五角星四",
+    "name_en": "Four of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "稳定",
+      "结构",
+      "休整",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "停滞",
+      "固着",
+      "不安",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（四主题：稳定、结构、休整）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（四阴影：停滞、固着、不安）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（四：稳定、结构、休整）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（四：停滞、固着、不安）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（四：稳定、结构、休整）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（四：停滞、固着、不安）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（四：稳定、结构、休整）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（四：停滞、固着、不安）。",
+    "description": "与五角星之土元素相关；四体现‘稳定、结构、休整’的阶段性课题。",
+    "advice": "围绕五角星/四的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "五",
+      "en": "Five"
+    },
+    "number": 5,
+    "name_zh": "五角星五",
+    "name_en": "Five of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "挑战",
+      "亏损",
+      "变动",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "重整",
+      "接受",
+      "调整",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（五主题：挑战、亏损、变动）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（五阴影：重整、接受、调整）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（五：挑战、亏损、变动）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（五：重整、接受、调整）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（五：挑战、亏损、变动）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（五：重整、接受、调整）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（五：挑战、亏损、变动）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（五：重整、接受、调整）。",
+    "description": "与五角星之土元素相关；五体现‘挑战、亏损、变动’的阶段性课题。",
+    "advice": "围绕五角星/五的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "六",
+      "en": "Six"
+    },
+    "number": 6,
+    "name_zh": "五角星六",
+    "name_en": "Six of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "和谐",
+      "支持",
+      "流动",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "失衡",
+      "付出/索取不均",
+      "停滞",
+      "阻滞"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（六主题：和谐、支持、流动）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（六阴影：失衡、付出/索取不均、停滞）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（六：和谐、支持、流动）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（六：失衡、付出/索取不均、停滞）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（六：和谐、支持、流动）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（六：失衡、付出/索取不均、停滞）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（六：和谐、支持、流动）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（六：失衡、付出/索取不均、停滞）。",
+    "description": "与五角星之土元素相关；六体现‘和谐、支持、流动’的阶段性课题。",
+    "advice": "围绕五角星/六的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "七",
+      "en": "Seven"
+    },
+    "number": 7,
+    "name_zh": "五角星七",
+    "name_en": "Seven of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "评估",
+      "防守",
+      "信念",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "分心",
+      "固执",
+      "策略需改",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（七主题：评估、防守、信念）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（七阴影：分心、固执、策略需改）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（七：评估、防守、信念）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（七：分心、固执、策略需改）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（七：评估、防守、信念）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（七：分心、固执、策略需改）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（七：评估、防守、信念）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（七：分心、固执、策略需改）。",
+    "description": "与五角星之土元素相关；七体现‘评估、防守、信念’的阶段性课题。",
+    "advice": "围绕五角星/七的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "八",
+      "en": "Eight"
+    },
+    "number": 8,
+    "name_zh": "五角星八",
+    "name_en": "Eight of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "专注/推进",
+      "技能/速度",
+      "边界",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "倦怠",
+      "拖延",
+      "方向偏",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（八主题：专注/推进、技能/速度、边界）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（八阴影：倦怠、拖延、方向偏）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（八：专注/推进、技能/速度、边界）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（八：倦怠、拖延、方向偏）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（八：专注/推进、技能/速度、边界）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（八：倦怠、拖延、方向偏）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（八：专注/推进、技能/速度、边界）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（八：倦怠、拖延、方向偏）。",
+    "description": "与五角星之土元素相关；八体现‘专注/推进、技能/速度、边界’的阶段性课题。",
+    "advice": "围绕五角星/八的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "九",
+      "en": "Nine"
+    },
+    "number": 9,
+    "name_zh": "五角星九",
+    "name_en": "Nine of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "成果临门",
+      "自守",
+      "韧性",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "疲惫",
+      "担忧",
+      "迟滞",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（九主题：成果临门、自守、韧性）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（九阴影：疲惫、担忧、迟滞）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（九：成果临门、自守、韧性）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（九：疲惫、担忧、迟滞）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（九：成果临门、自守、韧性）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（九：疲惫、担忧、迟滞）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（九：成果临门、自守、韧性）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（九：疲惫、担忧、迟滞）。",
+    "description": "与五角星之土元素相关；九体现‘成果临门、自守、韧性’的阶段性课题。",
+    "advice": "围绕五角星/九的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "十",
+      "en": "Ten"
+    },
+    "number": 10,
+    "name_zh": "五角星十",
+    "name_en": "Ten of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "完成/负荷",
+      "循环终章",
+      "收束",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "压力过大",
+      "崩溃",
+      "清算",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（十主题：完成/负荷、循环终章、收束）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（十阴影：压力过大、崩溃、清算）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（十：完成/负荷、循环终章、收束）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（十：压力过大、崩溃、清算）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（十：完成/负荷、循环终章、收束）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（十：压力过大、崩溃、清算）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（十：完成/负荷、循环终章、收束）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（十：压力过大、崩溃、清算）。",
+    "description": "与五角星之土元素相关；十体现‘完成/负荷、循环终章、收束’的阶段性课题。",
+    "advice": "围绕五角星/十的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "侍卫",
+      "en": "Page"
+    },
+    "number": 11,
+    "name_zh": "五角星侍卫",
+    "name_en": "Page of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "消息",
+      "学习",
+      "新手",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "幼稚",
+      "信息不全",
+      "拖延",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（侍卫主题：消息、学习、新手）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（侍卫阴影：幼稚、信息不全、拖延）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（侍卫：消息、学习、新手）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（侍卫：幼稚、信息不全、拖延）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（侍卫：消息、学习、新手）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（侍卫：幼稚、信息不全、拖延）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（侍卫：消息、学习、新手）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（侍卫：幼稚、信息不全、拖延）。",
+    "description": "与五角星之土元素相关；侍卫体现‘消息、学习、新手’的阶段性课题。",
+    "advice": "围绕五角星/侍卫的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "骑士",
+      "en": "Knight"
+    },
+    "number": 12,
+    "name_zh": "五角星骑士",
+    "name_en": "Knight of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "行动",
+      "执行",
+      "变化",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "鲁莽/迟缓",
+      "方向失衡",
+      "极端",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（骑士主题：行动、执行、变化）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（骑士阴影：鲁莽/迟缓、方向失衡、极端）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（骑士：行动、执行、变化）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（骑士：行动、执行、变化）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（骑士：行动、执行、变化）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（骑士：鲁莽/迟缓、方向失衡、极端）。",
+    "description": "与五角星之土元素相关；骑士体现‘行动、执行、变化’的阶段性课题。",
+    "advice": "围绕五角星/骑士的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "王后",
+      "en": "Queen"
+    },
+    "number": 13,
+    "name_zh": "五角星王后",
+    "name_en": "Queen of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "内在掌握",
+      "滋养/洞察",
+      "成熟",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "情绪化",
+      "被动攻击",
+      "操控",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（王后主题：内在掌握、滋养/洞察、成熟）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（王后阴影：情绪化、被动攻击、操控）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（王后：内在掌握、滋养/洞察、成熟）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（王后：情绪化、被动攻击、操控）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（王后：内在掌握、滋养/洞察、成熟）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（王后：情绪化、被动攻击、操控）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（王后：内在掌握、滋养/洞察、成熟）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（王后：情绪化、被动攻击、操控）。",
+    "description": "与五角星之土元素相关；王后体现‘内在掌握、滋养/洞察、成熟’的阶段性课题。",
+    "advice": "围绕五角星/王后的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "arcana": "Minor",
+    "suit": {
+      "zh": "五角星",
+      "en": "Pentacles"
+    },
+    "rank": {
+      "zh": "国王",
+      "en": "King"
+    },
+    "number": 14,
+    "name_zh": "五角星国王",
+    "name_en": "King of Pentacles",
+    "element": "土",
+    "astrology": null,
+    "keywords_upright": [
+      "领导",
+      "掌控",
+      "专业",
+      "物质",
+      "身体",
+      "工作",
+      "资源"
+    ],
+    "keywords_reversed": [
+      "独断",
+      "僵化",
+      "疏离",
+      "阻滞",
+      "失衡"
+    ],
+    "meaning_upright": "务实、资源与体感，重视长期稳健。（国王主题：领导、掌控、专业）。",
+    "meaning_reversed": "短视/偷懒/资源流失。（国王阴影：独断、僵化、疏离）。",
+    "love_upright": "稳定与共建生活，柴米油盐里的爱。（国王：领导、掌控、专业）。",
+    "love_reversed": "物质压力或安全感缺失影响感情。（国王：独断、僵化、疏离）。",
+    "career_upright": "技能、产出与流程，让价值可见可复用。（国王：领导、掌控、专业）。",
+    "career_reversed": "低效/拖延/质量问题；标准化。（国王：独断、僵化、疏离）。",
+    "finance_upright": "储蓄、预算、资产配置与增收。（国王：领导、掌控、专业）。",
+    "finance_reversed": "现金流吃紧或支出失控；立刻盘点。（国王：独断、僵化、疏离）。",
+    "description": "与五角星之土元素相关；国王体现‘领导、掌控、专业’的阶段性课题。",
+    "advice": "围绕五角星/国王的能量，识别当前阶段并采取相应行动：发挥优势，修正阴影。",
+    "notes": ""
+  }
+]

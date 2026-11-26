@@ -1,0 +1,191 @@
+# Tarot Stars 项目结构与技术框架分析
+
+## 项目概述
+
+Tarot Stars 是一个基于 Telegram Bot 和 Mini App 的塔罗牌占卜应用，采用前后端分离架构，包含两个主要项目：
+
+- **tarot-stars-server**: 后端服务（Node.js + TypeScript + MongoDB）
+- **tarot-stars-app**: 前端应用（React + TypeScript + Redux）
+
+---
+
+## 🔧 tarot-stars-server（后端服务）
+
+### 技术栈
+- **运行时**: Node.js + TypeScript
+- **框架**: Express.js（API服务）+ grammY（Telegram Bot）
+- **数据库**: MongoDB
+- **架构模式**: DDD（领域驱动设计）
+- **开发工具**: nodemon, ts-node, jest, eslint, prettier
+
+### 项目结构
+```
+src/
+├── domain/                    # 领域层
+│   ├── entities/             # 实体（TarotCard, User等）
+│   ├── repositories/         # 仓储接口
+│   └── services/            # 领域服务接口
+├── application/              # 应用层
+│   └── usecases/            # 用例（业务逻辑）
+├── infrastructure/           # 基础设施层
+│   ├── database/            # 数据库连接
+│   ├── repositories/        # 仓储实现
+│   └── services/           # 基础设施服务
+├── interfaces/              # 接口层
+│   ├── api/                # REST API（Express）
+│   └── telegram/           # Telegram Bot接口
+├── data/                   # 静态数据
+└── scripts/               # 数据迁移脚本
+```
+
+### 核心功能
+- **Telegram Bot**: 基于 grammY 框架的多语言塔罗牌机器人
+- **REST API**: 为前端 Mini App 提供数据服务
+- **多语言支持**: 支持中文、英文、日文、韩文
+- **数据持久化**: MongoDB 存储用户数据和塔罗牌记录
+- **DDD架构**: 清晰的分层架构，高内聚低耦合
+
+### 关键特性
+- 代理支持（开发环境）
+- 会话管理和对话流
+- 自动用户创建/更新
+- 多语言命令菜单
+- 错误处理和重试机制
+
+---
+
+## 🎨 tarot-stars-app（前端应用）
+
+### 技术栈
+- **框架**: React 18 + TypeScript
+- **状态管理**: Redux Toolkit
+- **样式**: Styled Components
+- **路由**: React Router DOM
+- **构建工具**: Create React App
+- **HTTP客户端**: Axios
+
+### 项目结构
+```
+src/
+├── domain/                    # 领域层
+│   ├── entities/             # 实体定义
+│   ├── repositories/         # 仓储接口
+│   └── services/            # 领域服务接口
+├── application/              # 应用层
+│   └── services/            # 应用服务
+├── infrastructure/           # 基础设施层
+│   ├── api/                 # API服务
+│   ├── store/              # Redux状态管理
+│   ├── repositories/        # 仓储实现
+│   └── telegram/           # Telegram WebApp集成
+├── components/              # UI组件
+│   ├── DailyTarot/         # 每日塔罗
+│   ├── History/            # 历史记录
+│   ├── Tarot/             # 塔罗占卜
+│   ├── Navigation/         # 导航组件
+│   └── common/            # 通用组件
+└── App.tsx                 # 应用入口
+```
+
+### 核心功能
+- **Telegram Mini App**: 完整的 Telegram WebApp 集成
+- **多语言界面**: 支持中英日韩四种语言
+- **响应式设计**: 适配移动端和桌面端
+- **主题适配**: 自动适配 Telegram 主题色彩
+- **状态管理**: Redux 管理全局状态
+
+### 关键特性
+- HTTPS 开发环境（SSL证书）
+- Telegram WebApp API 集成
+- 主题色彩自动适配
+- 用户语言自动检测
+- 组件化架构设计
+
+---
+
+## 🏗️ 架构设计亮点
+
+### 1. DDD架构模式
+- **领域层**: 核心业务逻辑，独立于技术实现
+- **应用层**: 用例编排，协调领域对象
+- **基础设施层**: 技术实现，数据持久化
+- **接口层**: 外部交互，API和UI
+
+### 2. 前后端分离
+- 后端提供 RESTful API
+- 前端独立部署和开发
+- 清晰的接口契约
+
+### 3. 多语言国际化
+- 服务端：Bot命令和消息多语言
+- 客户端：UI界面多语言
+- 用户语言自动检测和切换
+
+### 4. Telegram 生态集成
+- Bot：传统聊天机器人体验
+- Mini App：现代Web应用体验
+- 无缝用户体验切换
+
+### 5. 开发体验优化
+- TypeScript 全栈类型安全
+- 热重载开发环境
+- 代码规范和格式化
+- 完整的构建和部署流程
+
+---
+
+## 📊 技术决策总结
+
+| 方面 | 后端选择 | 前端选择 | 理由 |
+|------|----------|----------|------|
+| 语言 | TypeScript | TypeScript | 类型安全，开发效率 |
+| 框架 | Express + grammY | React | 成熟生态，社区支持 |
+| 状态管理 | - | Redux Toolkit | 可预测状态管理 |
+| 数据库 | MongoDB | - | 文档型数据，灵活schema |
+| 样式方案 | - | Styled Components | CSS-in-JS，主题支持 |
+| 构建工具 | tsc + nodemon | CRA | 开箱即用，快速开发 |
+
+---
+
+## 📁 文件结构详情
+
+### 后端关键文件
+- `src/runtime.local.ts`: 应用启动入口
+- `src/domain/entities/`: 核心业务实体
+- `src/application/usecases/`: 业务用例实现
+- `src/infrastructure/repositories/`: 数据访问层
+- `src/interfaces/telegram/`: Telegram Bot接口
+- `src/interfaces/api/`: REST API接口
+
+### 前端关键文件
+- `src/App.tsx`: React应用主组件
+- `src/infrastructure/store/`: Redux状态管理
+- `src/infrastructure/api/`: API服务层
+- `src/infrastructure/telegram/`: Telegram WebApp集成
+- `src/components/`: UI组件库
+
+---
+
+## 🚀 部署和开发
+
+### 开发环境
+- 后端：`npm run dev`（nodemon + TypeScript）
+- 前端：`npm run dev`（HTTPS + 热重载）
+- 数据库：MongoDB本地或云端
+
+### 生产环境
+- 后端：`npm run build && npm start`
+- 前端：`npm run build`（静态文件部署）
+- 反向代理：Nginx配置HTTPS
+
+---
+
+## 📈 项目特色
+
+1. **完整的Telegram生态集成**：同时支持Bot和Mini App
+2. **现代化架构设计**：DDD + 前后端分离 + TypeScript
+3. **国际化支持**：四种语言完整支持
+4. **开发体验优化**：热重载、类型检查、代码规范
+5. **生产就绪**：错误处理、日志记录、性能优化
+
+这个项目展现了现代全栈应用的最佳实践，结合了 DDD 架构、微服务思想、以及 Telegram 生态的深度集成。

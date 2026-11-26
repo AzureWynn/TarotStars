@@ -1,0 +1,40 @@
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes:
+      - mongo-data:/data/db
+
+  server:
+    build:
+      context: ./apps/tarot-stars-server
+    restart: unless-stopped
+    depends_on:
+      - mongo
+    environment:
+      BOT_TOKEN: ${BOT_TOKEN}
+      TELEGRAM_BOT_SECRET_TOKEN: ${TELEGRAM_BOT_SECRET_TOKEN}
+      MONGODB_URI: ${MONGODB_URI}
+      MONGODB_DB_NAME: ${MONGODB_DB_NAME}
+      PORT: "3001"
+      NODE_ENV: production
+      SKIP_TELEGRAM_AUTH: "false"
+      MINI_APP_URL: ${MINI_APP_URL}
+      JWT_SECRET: ${JWT_SECRET}
+      API_SECRET: ${API_SECRET}
+    ports:
+      - "3001:3001"
+
+  web:
+    build:
+      context: ./apps/tarot-stars-app
+      args:
+        REACT_APP_API_BASE_URL: ${REACT_APP_API_BASE_URL}
+    restart: unless-stopped
+    depends_on:
+      - server
+    ports:
+      - "3000:80"
+
+volumes:
+  mongo-data:

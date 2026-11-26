@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# TLS certificates (local development only)
+certificates/
+
+# Logs
+*.log
+logs/
+
+# Test / runtime
+coverage/
+pids/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
