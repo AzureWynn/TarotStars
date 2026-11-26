@@ -9,6 +9,7 @@ COPY --from=deps /app/node_modules ./node_modules
 COPY package.json package-lock.json tsconfig.json ./
 COPY src ./src
 RUN npm run build
+RUN cp src/scripts/tarot_78_full_zh.json dist/scripts/tarot_78_full_zh.json
 
 FROM node:20-alpine AS runtime
 WORKDIR /app
